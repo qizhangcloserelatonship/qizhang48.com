@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Qi Zhang (张齐）
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
